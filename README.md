@@ -1,6 +1,6 @@
 # Minimal example of sending data with OpenTelemetry to Honeycomb using Typescript
 
-_Just a basic demonstration of something I \_actually_ got working using OpenTelemetry (gRPC/HTTP).\_
+Just a basic demonstration of something I _actually_ got working using OpenTelemetry (gRPC/HTTP).
 
 **This project should give you an idea why I made [MikroTrace](https://github.com/mikaelvesavuori/mikrotrace).**
 
