@@ -4,7 +4,7 @@ Just a basic demonstration of something I _actually_ got working using OpenTelem
 
 **This project should give you an idea why I made [MikroTrace](https://github.com/mikaelvesavuori/mikrotrace).**
 
-The project demonstrates the use of tracing: First making an overall span, then making child spans for calling the Star Wars API and then waiting for 250ms. Trivial, but enough the get the point across.
+The project demonstrates the use of tracing: First making an overall span, then making child spans for calling the Star Wars API and then waiting for 250ms. Trivial, but enough to get the point across.
 
 ## Prerequisites
 
